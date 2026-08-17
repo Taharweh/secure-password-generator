@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    font-family: karla;
+    background: #1F2937;
+    font-family: 'Inter', sans-serif;
+    color: white;
+}
+
+.container {
+margin: 80px 50px;
+}
+
+
+h1{
+    font-family: 'Karla', sans-serif;
+    display: inline-block;
+    text-align: left;
+    margin-bottom: 4px;
+    font-weight: 800;
+}
+
+#h1-edit {
+color: #10B981;
+}
+
+p {
+    margin-top: 0;
+    margin-bottom: 40px;
+}
+
+button {
+    background: #10B981;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    gap: 12px;
+}
+
+.hr {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.input-copy {
+    margin-top: 40px;
+    margin: 5px;
+    background: rgba(39, 53, 73, 1);
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+    color: #10B981;
+}
